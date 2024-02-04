@@ -1,0 +1,4 @@
+- Interests and values: [Solid Project](https://solidproject.org), [intentional community](https://ic.org), self-directed learning, collaboration, sharing, sustainability, diversity, freedom, peace, veganism and freeganism, &hellip;
+- Projects: [sleepy.bike](https://github.com/OpenHospitalityNetwork/sleepy.bike), [Trustroots](https://github.com/Trustroots/trustroots), [Influenced](https://codeberg.org/influenced/influenced), [osm2pdf](https://npmjs.com/osm2pdf), [&hellip;](https://mrkvon.org/projects)
+- See also: [webId](https://id.mrkvon.org), [Codeberg](https://codeberg.org/mrkvon), [website](https://mrkvon.org)
+- Work: Senior full-stack developer. Open to meaningful job offers aligned with my interests and values.
